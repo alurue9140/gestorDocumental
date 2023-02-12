@@ -1,0 +1,10 @@
+cuenta;descripcion;grupo;password;horario
+ter;Usuario de 1ESO;1ESO;Zsxdcfv10*;/time:L-V,08:00-09:00
+araujo;Usuario de 2ESO;2ESO;Zsxdcfv10*;/time:L-V,09:00-10:00
+pedri;Usuario de 3ESO;3ESO;Zsxdcfv10*;/time:L-V,10:00-11:00
+gavi;Usuario de 4ESO;4ESO;Zsxdcfv10*;/time:L-V,11:00-12:00
+dembou;Usuario de 1BACH;1BACH;Zsxdcfv10*;/time:L-V,12:00-13:00
+lewan;Usuario de 2BACH;2BACH;Zsxdcfv10*;/time:L-V,13:00-14:00
+juanca;Usuario de 1DAM;1DAM;Zsxdcfv10*;/time:L-V,15:00-21:00
+alumnado_u;Usuario de alumnado;alumnado;Zsxdcfv10*;/time:L-V,08:00-21:00
+profesorado_u;Usuario de profesorado;profesorado;Zsxdcfv10*;/time:L-V,08:00-21:00

@@ -1,0 +1,50 @@
+nombre;Descripcion
+1ESO;Grupo de 1 ESO
+2ESO;Grupo de 2 ESO
+3ESO;Grupo de 3 ESO
+4ESO;Grupo de 4 ESO
+1BACH;Grupo de 1 BACH
+2BACH;Grupo de 2 BACH
+1DAM;Grupo de 1 DAM
+alumnado;Grupo de alumnado
+profesorado;Grupo de profesorado
+Dir_1eso_r;Grupo de lectura del directorio de 1eso
+Dir_1eso_w;Grupo de escritura del directorio de 1eso
+Dir_1eso_x;Grupo de ejecución del directorio de 1eso
+Dir_1eso_rwx;Grupo RWX del directorio de 1eso
+Dir_2eso_r;Grupo de lectura del directorio de 2eso
+Dir_2eso_w;Grupo de escritura del directorio de 2eso
+Dir_2eso_x;Grupo de ejecución del directorio de 2eso
+Dir_2eso_rwx;Grupo RWX del directorio de 3eso
+Dir_3eso_r;Grupo de lectura del directorio de 3eso
+Dir_3eso_w;Grupo de escritura del directorio de 3eso
+Dir_3eso_x;Grupo de ejecución del directorio de 3eso
+Dir_3eso_rwx;Grupo RWX del directorio de 3eso
+Dir_4eso_r;Grupo de lectura del directorio de 4eso
+Dir_4eso_w;Grupo de escritura del directorio de 4eso
+Dir_4eso_x;Grupo de ejecución del directorio de 4eso
+Dir_4eso_rwx;Grupo RWX del directorio de 4eso
+Dir_1bach_r;Grupo de lectura del directorio de 1bach
+Dir_1bach_w;Grupo de escritura del directorio de 1bach
+Dir_1bach_x;Grupo de ejecución del directorio de 1bach
+Dir_1bach_rwx;Grupo RWX del directorio de 1bach
+Dir_2bach_r;Grupo de lectura del directorio de 2bach
+Dir_2bach_w;Grupo de escritura del directorio de 2bach
+Dir_2bach_x;Grupo de ejecución del directorio de 2bach
+Dir_2bach_rwx;Grupo RWX del directorio de 2bach
+Dir_1dam_r;Grupo de lectura del directorio de 1dam
+Dir_1dam_w;Grupo de escritura del directorio de 1dam
+Dir_1dam_x;Grupo de ejecución del directorio de 1dam
+Dir_1dam_rwx;Grupo RWX del directorio de 1dam
+Dir_publico_r;Grupo de lectura del directorio Publico
+Dir_publico_w;Grupo de escritura del directorio Publico
+Dir_publico_x;Grupo de ejecución del directorio Publico
+Dir_publico_rwx;Grupo RWX del directorio Publico
+Dir_alumnado_r;Grupo de lectura del directorio Alumnado
+Dir_alumnado_w;Grupo de escritura del directorio Alumnado
+Dir_alumnado_x;Grupo de ejecución del directorio Alumnado
+Dir_alumnado_rwx;Grupo RWX del directorio Alumnado
+Dir_profesorado_r;Grupo de lectura del directorio Profesorado
+Dir_profesorado_w;Grupo de escritura del directorio Profesorado
+Dir_profesorado_x;Grupo de ejecución del directorio Profesorado
+Dir_profesorado_rwx;Grupo RWX del directorio Profesorado
